@@ -1,0 +1,15 @@
+span{
+    color: darksalmon;
+    font-style: oblique    
+
+}
+
+span.negrita{
+
+    font-weight: bold;
+}
+
+span.smol{
+
+    font-size: smaller;
+}
