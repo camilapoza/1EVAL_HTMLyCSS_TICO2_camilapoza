@@ -13,3 +13,11 @@ span.smol{
 
     font-size: smaller;
 }
+
+ol{
+list-style-type: upper-roman;
+}
+
+ul{
+list-style-image: url("img/galletA.png");
+}
